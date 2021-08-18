@@ -873,88 +873,13 @@ top: 0;
     width: 260px;
     height: 160px;
     position:absolute ;
-    /*background-video: url("img/shortvideo.mp4");*/
+    background-image: url("img/MobleMoney.jpg");
     left:0.01px;
     top:0.01px;
     bottom:0.01px;
     right:0.01px;
     overflow:hidden;
 }
-{
-margin: 0;
-}
-/*Видео фон*/
-.hero {
-  overflow: hidden;
-}
-.video-hero {
-  padding: calc(10% + 40px) 0;
-  background: #444 url(https://c.radikal.ru/c06/1809/60/ed3ac1815a4b.png);
-  position: relative;
-}
-.about-title {
-  font-family: sans-serif;
-  font-size: 70px;
-  text-align: center;
-  position: relative;
-  opacity: 0.5;
-}
-.about-title a {
-  text-decoration: none;
-  color: #fff;
-}
-/* VIDEO */
-.video-hero .video {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 0;
-  width: 100%;
-  transform: translate(-50%, -50%);
-  opacity: 0.5;
-}
-
-@media (max-width: 768px) {
-  .video-hero {
-    padding: calc(10% + 40px) 0;
-  }
-}
-@media (max-width: 480px) {
-  .about-title {
-    font-size: 40px;
-  }
-}
-/*#Container video{
-    width: 260px;
-    height: 160px;
-    position:absolute ;
-    background-video: url("img/shortvideo.mp4");
-    left:0.01px;
-    top:0.01px;
-    bottom:0.01px;
-    right:0.01px;
-    overflow:hidden;
-}*/
-
-/*#Container video {
-    position: absolute;
-    left: 0.01%;
-    top: 0.01%;
-    /* The following will size the video to fit the full container. Not necessary, just nice.*/
-    /*min-width: 260%;
-    min-height: 160%;
-    -webkit-transform: translate(-50%,-50%);
-    -moz-transform: translate(-50%,-50%);
-    -ms-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
-    z-index: 0;*/
-/*}
-
-#Container div {
-    position: relative;
-    z-index: 1;
-}*/
-
 #help1
 {
     top:120px;
